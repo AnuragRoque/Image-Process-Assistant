@@ -1,0 +1,1 @@
+WIFI:T:WPA;P:ys2ndfront4050;S:Ys 2nd front;H:true; (QRCODE)
